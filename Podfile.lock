@@ -1,0 +1,22 @@
+PODS:
+  - GoogleMaps (1.11.1)
+  - ReachabilitySwift (2.3.3)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - ReachabilitySwift (from `https://github.com/ashleymills/Reachability.swift`)
+
+EXTERNAL SOURCES:
+  ReachabilitySwift:
+    :git: https://github.com/ashleymills/Reachability.swift
+
+CHECKOUT OPTIONS:
+  ReachabilitySwift:
+    :commit: ec4b33a7e439e5b203b0cae0f71383ca803ad031
+    :git: https://github.com/ashleymills/Reachability.swift
+
+SPEC CHECKSUMS:
+  GoogleMaps: c947160008f414c66707a5ea60f35e92055c7670
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+
+COCOAPODS: 0.39.0
